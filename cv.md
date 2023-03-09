@@ -1,27 +1,21 @@
-# Резюме: Даутов Бекежан
+# CV: Dautov Bekezhan
 
-## Мой лор.
+My work number: 87012131918, you can contact via Telegram, as well as my Discord "A4U4UK#2507".
 
-    На данный момент я прохожу обучение в колледже INTC в городе Алматы. Там я не получил и не получаю никаких базовых знаний и обучаюсь самостоятельно, с этой ношей мне помогают мои друзья с такой же целью, как и у меня. Они также сейчас проходят обучение на этом курсе
+## About Me.
 
-### Мои хобби(механика)
+I study at INTC college in Almaty city. I am purposeful, I know how to work in a team, I worked in the creation of projects: to create a company scheme and protect it from the side of information security, and also worked with the "periodic table of security" during the creation of the project. I want to learn JS to expand my own knowledge and be able to switch to a developer.
 
-- обучение JS
-- компьютерные игры
-  - Dota2
-  - The binding of isaac
-  - Phasmophobia
-- плавание
-- workout
-- обучение чешского языка
+### My skills
 
-#### Аналитика ошибок
+I continue to take a course on HTML, CSS in GetCourse from "Glo Academy", I also studied on my own at [learn.javascript.ru] (https://learn.javascript.ru/). I still continue my studies at an IT college for a specialty "Information Security Technician". The level of English knowledge leaves much to be desired, I study Czech with the aim of moving and getting a higher education there.
 
-    У меня есть некоторые проблемы в написание текста, это связано с тем, что я весьма медленно пишу и еще как можно было заметить пропускал уроки русского языка, так как всегда надеялся на помощь Т9. Несмотря на это, вживую у меня довольно-таки грамотная речь, но и она не самая лучшая. Из хорошего: у меня не самое плохое чувство юмора (ну или нет), у меня есть какая никакая целеустремленность, я являюсь секс-символом, но при условии, если ты слепой, а так у меня нормальная самооценка (и возможно внешность).
+#### Code examples
 
-> Я не плохой человек. Просто мне не повезло.
-> Человек-паук 3: Враг в отражении
+I didn't have examples of my code so I completed the suggested task in CodeWars. I had to find a bug in the code
 
-##### Итог
-
-    Я рассказал все то как я вижу себя и мне больше нечего добавить.
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
